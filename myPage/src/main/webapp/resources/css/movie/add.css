@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+.title {
+	font-size: 20px;
+	font-weight: 500;
+}
+
+.title-container {
+	margin: auto;
+	width: 60%;
+}
+
+table {
+	margin: auto;
+	
+}
+
+input[name=actor] {
+	width: 90%;
+}
+
+
+.story {
+	padding: 20px;
+	background-color: #FEFDF5;
+}
+
+.filebox input[type="file"] {
+    position: absolute;
+    width: 0;
+    height: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 0;
+}

@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+body{
+	background-image: url("../images/background.jpg");
+	background-repeat: no-repeat;
+	background-size: 150%;
+	margin: 0px;
+}
+
+.login{
+	background-color: rgba(255, 210, 0, 1);
+	border-radius:  10px 10px 10px 10px;
+}
